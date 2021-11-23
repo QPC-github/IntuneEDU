@@ -37,7 +37,7 @@ Make sure to renew them to maintain the connection between your Intune for Educa
 
 ## Renew Apple MDM  certificate  
 > [!IMPORTANT]
-> If the Apple MDM certificate expires or is deleted, you will need to reset and re-enroll devices with a new certificate.  
+> If the Apple MDM certificate is deleted, you will need to reset and re-enroll devices with a new certificate.  
 
 The MDM push certificate is associated with the Apple ID you used to create it. Renew the certificate with this same Apple ID.
 

@@ -46,7 +46,8 @@ The following table describes when to use Set up School PCs, Windows Autopilot, 
 |First day of class|Devices are ready for sign in and use immediately.| Students need to unbox and connect to network; setup completes automatically.|
 |Deployment time|Can take as little as 1-2 minutes; time increases based on the number of concurrent device setups, network bandwidth, and size of required applications.|Can take as little as 1-2 minutes; time increases based on the number of concurrent device setups, network bandwidth, and size of required applications.|
 |OEMs/Partners|Not applicable.  |Requires registration of device IDs for the Windows Autopilot service by a partner (CSP) or OEM provider. |
-|Existing on premises configuration| Supported with Windows Configuration Designer only. | Supports Hybrid AD join; device must be on same network as Active Directory Domain Controller.|  
+|Existing on premises configuration| Supported with Windows Configuration Designer only. | Supports Hybrid AD join; device must be on same network as Active Directory Domain Controller.|
+|DFCI Management for Surface devices| Not supported with devices enrolled using a provisioning package. | Supported with all Autopilot deployment modes: User-driven, Pre-Provisioning, and Self-Deploying.|  
 ### Setting up devices with Windows Autopilot
  To set up your devices with [Autopilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/windows-autopilot-requirements), go to [Intune](https://devicemanagement.microsoft.com) > **Device enrollment** > **Windows enrollment** > **Devices**.   
 

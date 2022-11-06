@@ -48,7 +48,6 @@ There are four options available to help you remotely help students and teachers
 | Over-the-internet support |![Checkmark](./media/checkmark.png)|![Checkmark](./media/checkmark.png)|![Checkmark](./media/checkmark.png)||
 | Audit reporting |![Checkmark](./media/checkmark.png)||![Checkmark](./media/checkmark.png)|![Checkmark](./media/checkmark.png)|
 | Support for all platforms (Windows, iOS, Android, macOS) |![Checkmark](./media/checkmark.png)||![Checkmark](./media/checkmark.png)||
-| Integrated with Windows 10 – no additional app required ||![Checkmark](./media/checkmark.png)|||
 | Requires device to be co-managed by Configuration Manager and Intune ||||![Checkmark](./media/checkmark.png)|
 | Requires additional licensing\* |![Checkmark](./media/checkmark.png)||![Checkmark](./media/checkmark.png)|![Checkmark](./media/checkmark.png)|
 
